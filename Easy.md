@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<h2>Select A Different <a href="multiplayer.md">Mode!</a>a></h2>
 <h2>Multiplayer: Easy</h2>
 <p>Welcome to Easy mode! This is recommended for newer forsaken players or even players who have never even played at all but know a good amount from a friend! Obviously it is recommended to play this with a person who is experienced in the game of Forsaken.</p>
 </head>
@@ -9,4 +10,5 @@
 </body>
 
 </html>
+
 
