@@ -7,11 +7,12 @@
 </head>
 <body>
 <h2> Levels </h2>
-<a href="easy.md">Easy</a>
-<a href="Medium.md">Medium</a>
+<a href="Easy.md">Easy</a>
+<a href="medium.md">Medium</a>
 <a href="hard.md">Hard</a>
 </body>
 
 </html>
+
 
 
